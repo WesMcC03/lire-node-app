@@ -1,0 +1,23 @@
+{
+  "name": "lire-node-app",
+  "version": "1.0.0",
+  "description": "LIRI (Language Interpretation and Recognition Interface) will search Spotify for songs, Ticket Master for concerts, and OMDB for movies.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WesMcC03/lire-node-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WesMcC03/lire-node-app/issues"
+  },
+  "homepage": "https://github.com/WesMcC03/lire-node-app#readme",
+  "dependencies": {
+    "node-spotify-api": "^1.1.1"
+  }
+}
